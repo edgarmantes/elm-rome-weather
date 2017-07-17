@@ -18,6 +18,16 @@ backgroundPicture =
     ]
 
 
+loading : List Style
+loading =
+    [ color "white"
+    , fontSize (px 50)
+    , position "fixed"
+    , top (pc 50)
+    , left (pc 39)
+    ]
+
+
 columnLayout : List Style
 columnLayout =
     [ display block
