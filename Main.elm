@@ -26,7 +26,6 @@ init =
 
 
 
--- ( initialModel, fetchWeather )
 --Needs to be added for the "Html.program" agruments. Those arguments are required to be there. Therefore you need an instance of each one
 
 
